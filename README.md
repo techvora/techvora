@@ -2,15 +2,13 @@
 
 
 <h1 align="center">नमस्ते! (Namaste!) </h1>
-<img src = "https://github.com/abhisheks008/techvora/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner%20(10).png"/>
-
-<div align = 'center'>
+<div align="center">
  
+ <img src = "https://github.com/techvora/techvora/blob/main/Linkedin%20Banner%20Images.jpeg" width="100%" height="200"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Software+Developer;Machine+Learning+Researcher;Open+Source+Developer;Competitive+Coder&center=true&width=380&height=45"/><br>
-
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-</p>
+</p>  
 
 <p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology.</b></p> <br>
 </div>
