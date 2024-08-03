@@ -1,6 +1,6 @@
-## Hi there 👋
+<!--## Hi there 👋
 
-<!--
+
 **techvora/techvora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,94 +15,138 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ### Hi there, I'm Ashish Patel👋
-  ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
-  [![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/ashishpatel2604/)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imashish2604)
+<body style="background-color:WhiteSmoke;">
 
 
-  ## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+<h1 align="center">नमस्ते! (Namaste!) </h1>
+<img src = "https://github.com/abhisheks008/techvora/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner%20(10).png"/>
 
----
+<div align = 'center'>
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Software+Developer;Machine+Learning+Researcher;Open+Source+Developer;Competitive+Coder&center=true&width=380&height=45"/><br>
+--->
+ <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+</p>
 
-  * 🔭 I am Currently working as **Chief Data Scientist(Sr.AWS AI ML Solution Architect)** at [IBM](https://www.ibm.com/in-en)
-
-  - 🌱 I’m currently Learning Quantum Machine learning😎.
-
-  - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
-  
-  - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
-  
-  - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
-
-  - ⚡ Fun fact: I love to code.
-
----
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=radical) | [![Ashish Patel's Stri](https://streak-stats.demolab.com?user=ashishpatel26&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-   ## ⚡ Technologies I use 
-
-<div align="center">
-<table align="center">
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
-            <br /> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
-            <br /> Jupyter
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
-            <br /> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/pytorch.png" width="65px"/>
-            <br /> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
-            <br /> Scikit Learn
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/fastapi.png" width="65px"/>
-            <br /> FastAPI
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> Docker
-        </td>
-    </tr>
-</table>
+<p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology.</b></p> <br>
 </div>
 
- - Laptop (I am using)
- -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)  
+ 
+:star:  Looking forward to have a successful professional career as a **Software Developer** <br>
+:nerd_face: Currently working on **AI-ML!** <br>
+:snowflake: Graduated from **Shree Umiya BCA College Under Gujarat University, Ahmedabad** in **Bachlore of Computer Application**. Passout batch: 2020 <br>
+🚀 Love to talk about **Research and Innovation!** <br>
+<!--🧑‍🤝‍🧑 Mentored over **250+ newbies in different Open Source Programs** <br> 
+💻 Participated in different Open Source Programs as, **a Participant, a Mentor and even as a PA** <br>
+**In short🍺, I love to work on new technologies.💙** <br> -->
 
-||Model|Bench
-:----|:----|:----|
-**CPU**|[Intel Core i7-10870H](https://cpu.userbenchmark.com/SpeedTest/1322918/IntelR-CoreTM-i7-10870H-CPU---220GHz)|77.1%
-**GPU**|[Intel UHD Graphics](https://gpu.userbenchmark.com/SpeedTest/1027883/IntelR-UHD-Graphics)|4.8%
-**GPU**|[Nvidia RTX 3060 (Laptop)](https://gpu.userbenchmark.com/SpeedTest/1452971/NVIDIA-GeForce-RTX-3060-Laptop-GPU)|84.1%
-**SSD**|[Samsung MZVLB1T0HBLR-00007 1TB](https://ssd.userbenchmark.com/SpeedTest/963042/SAMSUNG-MZVLB1T0HBLR-00007)|104.4%
-**RAM**|[Hynix HMAA2GS6AJR8N-XN 1x16GB](https://ram.userbenchmark.com/SpeedTest/1166099/Hynix-HMAA2GS6AJR8N-XN-1x16GB)|37.8%
-**MBD**|[Acer Predator PH315-53](https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818)|   
+*:sleeping: Fun Fact about me: I used to listen music during the time of coding!*
+ 
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-### Important Repository
+<p align="center">
+  <a href="https://dev.to/badge/hacktoberfest-2020"><img src="https://user-images.githubusercontent.com/30869493/134504434-590236f3-d00b-4fb4-9454-baff8497beeb.png" height="60px"></a>
+  <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" height="60px"></a>
+  <img src = "https://github.com/abhisheks008/abhisheks008/blob/main/unnamed.png" height="60px">
+ <a href = "eddiehub.org"><img src = "https://avatars.githubusercontent.com/u/66388388?s=200&v=4" height="60px"></a>
+ <a href = "https://gwoc.girlscript.tech/"><img src = "https://gwoc.girlscript.tech/assets/favicon.png" height="60px"></a>
+ <a href = "https://swoc.scriptindia.org/"><img src = "https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" height="60px"></a>
+ <a href = "https://jwoc.tech/"><img src = "https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" height="60px"></a>
+ <a href = "https://gssoc.girlscript.tech/"><img src = "https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" height = "60 px"></a>
+ <a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" height=60px /></a>
+ <a href="https://www.psoc.in/"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/62daac5dc1e55_psoc-3.png?d=110x110" height=60px /></a>
+ <a href="https://ssoc.getsocialnow.co/#"><img src="https://github.com/abhisheks008/DL-Simplified/blob/main/.github/Assets/logo-1.jpg" height=60px /></a>
+ <a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" width=60px height=60px /></a>
+</p> 
 
-💾 365 Days of Computer Vision - [🔗](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
+ 
+ ## Open Source Repositories for Contributors!
 
----
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/techvora) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/techvora)
 
-***Thanks for visit my profile.***
+|      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs🔔 | Closed PRs🔥 | Participated In🥑 |
+|-------------|-------------------|---|---|---|---|:-:|
+| [**ML-Crate**](https://github.com/abhisheks008/ML-Crate) | [![GitHub Stars](https://img.shields.io/github/stars/abhisheks008/ML-Crate?style=social)](https://github.com/abhisheks008/ML-Crate/) |
+| [**Deep Learning Simplified**](https://github.com/abhisheks008/DL-Simplified) | [![GitHub Stars](https://img.shields.io/github/stars/abhisheks008/DL-Simplified?style=social)](https://github.com/abhisheks008/DL-Simplified/stars) |
+| [**Play With Python**](https://github.com/abhisheks008/Play-With-Python) | [![GitHub Stars](https://img.shields.io/github/stars/abhisheks008/Play-With-Python?style=social)](https://github.com/abhisheks008/Play-With-Python/stars) |
+
+
+
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+
+<!--- 
+[![techvora's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techvora&theme=xcode)](https://github.com/techvora)
+<p align = 'center'><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techvora&theme=dracula&hide_border=true" /></p>
+--->
+
+<div align = "center">
+<div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=abhisheks008&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
+
+<div align="center">
+ 
+
+## Connect with me  
+  
+<!--- <a href="https://twitter.com/Abhishe08346491" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>-->
+<a href="https://www.linkedin.com/in/abhishek-sharma-aa06a9183/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/abhishek.me8/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/abhisheks008" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+<a href = "mailto:sharma.abhishek1282000@gmail.com" target = "_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>  
+
+
+## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)    
+<img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)  
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40">  
+
+
+### :heavy_check_mark: Wanted to know more about me, Visit <a href = "https://abhisheks008.bio.link"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> :100:
+
+
+## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
+ <img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> <img src = "https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img src = "https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white"/>
+
+ 
+ 
+<!---## 🔥 My Current Streak [🔝](#welcome-badges-4-readmemd-profile)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheks008&" alt="abhisheks008" /></p>-->
+<br>
+
+
+
+
+
+
+ 
+
+
+<div align = "center">
+ 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{techvora}/count.svg)
+
+</div>
+
+### Show some ❤️ by starring some of the repositories!
+
+
+[![@techvora's Holopin board](https://holopin.io/api/user/board?user=techvora)](https://holopin.io/@techvora)
+
+</body>
+
+
+
