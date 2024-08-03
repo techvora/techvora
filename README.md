@@ -6,7 +6,7 @@
  
  <img src = "https://github.com/techvora/techvora/blob/main/Eye.png"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=gradient&center=true&lines=Software+Developer;Machine+Learning+Researcher;Open+Source+Developer;Competitive+Coder&center=true&width=380&height=45"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=gradient&center=true&lines=Software+Developer;Machine+Learning;Open+Source+Developer;Competitive+Coder&center=true&width=380&height=45"/><br>
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>  
 
