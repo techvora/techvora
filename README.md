@@ -72,10 +72,10 @@
 <a href="https://www.linkedin.com/in/ghanshyam-vora-040985165/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/share/7qeBstEW2oA1Nq3i/?mibextid=qi2Omg" target="_blank">
+<a href="" target="_blank"> <!-- https://www.facebook.com/share/7qeBstEW2oA1Nq3i/?mibextid=qi2Omg -->
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_v.r_ghanshyam_" target="_blank">
+<a href="" target="_blank"> <!-- https://instagram.com/_v.r_ghanshyam_ -->
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 <a href = "mailto:mr.vora212@gmail.com" target = "_blank">
