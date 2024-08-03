@@ -69,16 +69,16 @@
 <!--- <a href="https://twitter.com/Abhishe08346491" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>-->
-<a href="https://www.linkedin.com/in/abhishek-sharma-aa06a9183/" target="_blank">
+<a href="https://www.linkedin.com/in/ghanshyam-vora-040985165/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/abhishek.me8/" target="_blank">
+<a href="https://www.facebook.com/share/7qeBstEW2oA1Nq3i/?mibextid=qi2Omg" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/abhisheks008" target="_blank">
+<a href="https://instagram.com/_v.r_ghanshyam_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-<a href = "mailto:sharma.abhishek1282000@gmail.com" target = "_blank">
+<a href = "mailto:mr.vora212@gmail.com" target = "_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>  
