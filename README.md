@@ -1,7 +1,7 @@
 <body style="background-color:WhiteSmoke;">
 
 
-<h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝘁𝗲𝗰𝗵𝘃𝗼𝗿𝗮'𝘀 𝘄𝗼𝗿𝗹𝗱!</h1>
+<h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 the 𝘁𝗲𝗰𝗵𝘃𝗼𝗿𝗮'𝘀 𝘄𝗼𝗿𝗹𝗱!</h1>
 <div align="center">
  
  <img src = "https://github.com/techvora/techvora/blob/main/Eye.png"/>
