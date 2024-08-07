@@ -17,8 +17,7 @@
 :star:  Looking forward to have a successful professional career as a **Software Developer** <br>
 :nerd_face: Currently working on **AI-ML!** <br>
 :snowflake: Graduated from **Shree Umiya BCA College , Gujarat University Ahmedabad** in **Bachlore of Computer Application**. Passout batch: 2020 <br>
-🚀 Love to talk about **Research and Innovation!** <br>
-🧑‍🤝‍🧑 Mentored over **250+ newbies in different Open Source Programs** <br> 
+🚀 Love to talk about **Research and Innovation!** <br> 
 💻 **I love to work on new technologies.💙** <br> 
 
 *:sleeping: Fun Fact about me: I used to listen music during the time of coding!*
